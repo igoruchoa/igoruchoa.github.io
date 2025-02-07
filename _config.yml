@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Igor Uchoa"
 title_separator          : "-"
 name                     : &name "Igor Uchoa"
-description              : &description "PhD Student"
+description              : &description "I am a Ph.D. student in the Atmospheric and Oceanic Sciences department at the University of Maryland, College Park, in Dr. Jacob Wenegrat’s group. My work is focused on air-sea interaction at submesoscale using observations and coupled model simulations. "
 url                      : https://igoruchoa.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "igoruchoa/igoruchoa.github.io"
@@ -22,7 +22,7 @@ repository               : "igoruchoa/igoruchoa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "igoruf_photo.jpeg"
   name             : "Igor Uchoa"
   pronouns         : "he/him"# example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
