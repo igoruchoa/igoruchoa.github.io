@@ -1,0 +1,13 @@
+---
+title: "Unraveling the Impacts of Submesoscale Thermal and Current Feedbacks on the Low-Level Winds and Oceanic Submesoscale Currents"
+collection: publications
+category: manuscripts
+permalink: /publication/Unravelling_submesoscale
+excerpt: 'In this study, high-resolution coupled ocean–atmosphere simulations are performed over the Gulf Stream to investigate the influence of submesoscale thermal feedback (TFB) and current feedback (CFB) on the low-level atmosphere and the oceanic submesoscale kinetic energy.'
+date: 2024-12'
+journal: 'Journal of Physical Oceanography'
+paperurl: 'https://journals.ametsoc.org/view/journals/phoc/54/12/JPO-D-24-0097.1.xml'
+citation: 'Renault, L., Contreras, M., Marchesiello, P., Conejero, C., Uchoa, I., & Wenegrat, J. (2024). Unraveling the Impacts of Submesoscale Thermal and Current Feedbacks on the Low-Level Winds and Oceanic Submesoscale Currents. Journal of Physical Oceanography, 54(12), 2463-2486.'
+---
+
+In this study, high-resolution coupled ocean–atmosphere simulations are performed over the Gulf Stream to investigate the influence of submesoscale [O(10) km] thermal feedback (TFB) and current feedback (CFB) on the low-level atmosphere and the oceanic submesoscale kinetic energy (SKE). At the submesoscale, TFB and CFB exhibit constructive and destructive effects on wind and surface stress, making this a more complex problem than for the mesoscale [O(100) km]. This coinfluence alters classical coupling coefficients, posing a challenge to isolate individual coupling mechanisms. Here, the feedbacks are isolated separately by removing their imprint on the air–sea coupling fields in dedicated simulations. Both submesoscale TFB and CFB lead to a damping of the SKE. CFB causes eddy killing by drag friction between currents and the atmosphere. However, while eddy killing should be more efficient than its mesoscale counterpart due to a weaker wind response (less re-energization), its effect is hampered by an energization from TFB and by the highly transient nature of submesoscale flow, resulting in a modest 10% reduction in SKE. TFB also contributes to a reduction of SKE, mainly by causing a potential energy sink, associated with turbulent heat fluxes, especially at scales < 10 km. The potential energy sink affects SKE through a decrease of baroclinic energy conversion although this is slightly modulated by an increase in Ekman pumping by submesoscale CFB. Our results emphasize the importance of considering both TFB and CFB at the submesoscale and highlight the limitations of mesoscale CFB parameterizations for submesoscale applications. Future parameterizations should be scale-aware and account for both TFB and CFB effects on momentum and heat fluxes.
