@@ -7,6 +7,3 @@ venue: "Climatematch - NeuroAcademy"
 date: 2024-07-12
 location: "Remote"
 ---
-
-
-======
