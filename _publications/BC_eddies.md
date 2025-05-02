@@ -1,12 +1,12 @@
 ---
 title: "The Brazil Current mesoscale eddies: Altimetry-based characterization and tracking"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/BC_eddies
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
 Journal: 'Deep Sea Research Part I: Oceanographic Research Papers'
-paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://www.sciencedirect.com/science/article/pii/S0967063722002606)'
+paperurl: '(https://www.sciencedirect.com/science/article/pii/S0967063722002606)'
 citation: 'Farias, I. U., Silveira, I. C. A. D., & Simoes-Sousa, I. T. (2023). The Brazil Current mesoscale eddies: Altimetry-based characterization and tracking. Deep Sea Research Part I: Oceanographic Research Papers, 192.'
 ---
 
