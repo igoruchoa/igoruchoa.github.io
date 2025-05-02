@@ -1,7 +1,7 @@
 ---
 title: "Water masses and oceanic circulation of the Brazilian continental margin and adjacent abyssal plain"
 collection: publications
-category: book chapter
+category: manuscripts
 permalink: /publication/WBC_book
 excerpt: 'This chapter presents an overview of the water masses and oceanic circulation of the Brazilian Continental Margin (BCM) and the adjacent abyssal plain.'
 date: 2020
