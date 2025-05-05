@@ -6,7 +6,7 @@ category: manuscripts
 permalink: /publication/SMODE_BAMS
 excerpt: 'This paper describes the Sub-Mesoscale Ocean Dynamics Experiments, which have investigated submesoscale dynamics along the coast of California.'
 date: 2025-02-14
-journal: 'Bulletin of the American Meteorological Society'
+venue: 'Bulletin of the American Meteorological Society'
 paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://journals.ametsoc.org/view/journals/bams/106/4/BAMS-D-23-0178.1.xml)'
 citation: 'J. T. Farrar et al. S-MODE: The sub-mesoscale ocean dynamics experiment. Bulletin of the American
 Meteorological Society, 2025'
