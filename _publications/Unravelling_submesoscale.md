@@ -6,7 +6,6 @@ permalink: /publication/Unravelling_submesoscale
 excerpt: 'In this study, high-resolution coupled ocean–atmosphere simulations are performed over the Gulf Stream to investigate the influence of submesoscale thermal feedback (TFB) and current feedback (CFB) on the low-level atmosphere and the oceanic submesoscale kinetic energy.'
 date: 2024-12-01'
 venue: 'Journal of Physical Oceanography'
-paperurl: 'https://journals.ametsoc.org/view/journals/phoc/54/12/JPO-D-24-0097.1.xml'
 citation: 'Renault, L., Contreras, M., Marchesiello, P., Conejero, C., Uchoa, I., & Wenegrat, J. (2024). Unraveling the Impacts of Submesoscale Thermal and Current Feedbacks on the Low-Level Winds and Oceanic Submesoscale Currents. Journal of Physical Oceanography, 54(12), 2463-2486.'
 ---
 
