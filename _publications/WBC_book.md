@@ -4,9 +4,9 @@ collection: publications
 category: manuscripts
 permalink: /publication/WBC_book
 excerpt: 'This chapter presents an overview of the water masses and oceanic circulation of the Brazilian Continental Margin (BCM) and the adjacent abyssal plain.'
-date: 2020
+date: 2020-10-28
 journal: 'Springer International Publishing'
-paperurl: '(https://link.springer.com/chapter/10.1007/978-3-030-53222-2_2)'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-53222-2_2'
 citation: 'Silveira, I. C. A., Napolitano, D. C., & Farias, I. U. (2020). Water masses and oceanic circulation of the Brazilian continental margin and adjacent abyssal plain. Brazilian deep-sea biodiversity, 7-36.'
 ---
 
