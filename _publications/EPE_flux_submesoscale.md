@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/EPE_flux_submesoscale
 excerpt: 'This paper discusses the influence of sea surface temperature variability in the air-sea eddy potential energy flux at the submesoscale '
 date: 2025-04-01
-Journal: 'Journal of Physical Oceanography (Accepted)/ EarthArxiv (Pre-print)'
+venue: 'Journal of Physical Oceanography (Accepted)/ EarthArxiv (Pre-print)'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://doi.org/10.31223/X59H6N)'
 citation: 'Uchoa, I., Wenegrat, J., Renault, L. (2025). &quot; Sink of eddy energy by submesoscale sea surface temperature variability in a coupled regional model.&quot; <i>Journal of Physical Oceanography </i>. 1(1).'
 ---
