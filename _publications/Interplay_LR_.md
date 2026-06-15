@@ -1,4 +1,3 @@
-
 ---
 title: "Interplay of submesoscale current and thermal feedbacks: A seasonal perspective in the Gulf Stream"
 collection: publications
