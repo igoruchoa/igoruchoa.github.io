@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/PNAS_1.md
 excerpt: 'This observational study underscores the need to reassess how air-sea fluxes at submesoscale are represented in forecast and global climate models'
 date: 2026-06-15
-venue: 'PNAS (in press)'
+venue: 'PNAS'
 citation: 'Igor Uchoa, Jacob O. Wenegrat, Alex Kinsella, Inés M. Leyba, Larry W. O’Neill, and Luc Lenain (2026). "Observed rapid adjustment of the atmospheric boundary layer to submesoscale sea surface temperature fronts"; Proceedings of the National Academy of Sciences. In press.'
 ---
 
